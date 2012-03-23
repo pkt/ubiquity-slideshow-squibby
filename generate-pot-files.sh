@@ -15,10 +15,4 @@ mkpo ()
 	rm -r "po/$1/.tmp"
 }
 
-mkpo "ubuntu"
-mkpo "kubuntu"
-mkpo "xubuntu"
-mkpo "lubuntu"
-mkpo "edubuntu"
-mkpo "ubuntustudio"
-mkpo "oem-config-ubuntu"
+mkpo "squibby"
